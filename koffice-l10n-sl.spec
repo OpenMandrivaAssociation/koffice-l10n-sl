@@ -1,6 +1,6 @@
 Name: koffice-l10n-sl
 Version: 1.9.98.5
-Release: %mkrel 2
+Release: 3
 Summary: Language files for KOffice Slovenian
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
@@ -119,7 +119,7 @@ rm -rf %buildroot
 * Wed May 05 2004 Laurent MONTEL <lmontel@mandrakesoft.com> 1.3.1-1mdk
 - 1.3.1
 
-* Sun Apr 18 2004 Per Øyvind Karlsen <peroyvind@linux-mandrake.com> 1.3-2mdk
+* Sun Apr 18 2004 Per ï¿½yvind Karlsen <peroyvind@linux-mandrake.com> 1.3-2mdk
 - fix buildrequires
 - spec cosmetics
 
